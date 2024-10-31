@@ -1,2 +1,3 @@
-# Project
-class project I have done
+# JewelryShop
+class project I have done in PRJ301 class
+
